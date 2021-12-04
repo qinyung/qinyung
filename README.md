@@ -4,6 +4,6 @@
 
 - 🎉 我是[Sprinkle](https://space.bilibili.com/504151731/)!
 
-- 🌱 这是我的博客[Blog](http://pntang.github.io/),欢迎光临!
+- 🌱 这是[我的博客](http://pntang.github.io/),欢迎光临!
 
 - 🎄 圣诞快乐?
