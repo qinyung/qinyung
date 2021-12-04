@@ -2,9 +2,9 @@
 
 ### (｡･∀･)ﾉﾞ早
 
-- 🔭 I’m currently working on iOS App and Golang Web development. 
+- 🔭 我是[Sprinkle](https://space.bilibili.com/504151731/)!
 
-- 🌱 I’m currently learning and sharing on [my blog](http://ficowshen.com), welcome~
+- 🌱 这是我的博客[Blog](http://pntang.github.io/),欢迎光临!
 
 
 <!--
