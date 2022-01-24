@@ -4,7 +4,7 @@
 
 - 🎉 我是[Sprinkle](https://space.bilibili.com/504151731/)!
 
-- 🌱 在学html,js,css
+- 🌱 在学html,js,css,会点python
 
 - 🎄 陪我聊会? [![Gitter](https://badges.gitter.im/im-spr/chat.svg)](https://gitter.im/im-spr/chat?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=body_badge)
 
