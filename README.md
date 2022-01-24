@@ -4,7 +4,7 @@
 
 - 🎉 我是[Sprinkle](https://space.bilibili.com/504151731/)!
 
-- 🌱 这是[我的博客](http://pntang.github.io/),欢迎光临!
+- 🌱 在学html,js,css
 
 - 🎄 陪我聊会? [![Gitter](https://badges.gitter.im/im-spr/chat.svg)](https://gitter.im/im-spr/chat?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=body_badge)
 
