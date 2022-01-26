@@ -1,5 +1,3 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ficowshen&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
-
 ### Hey,my name's Sprinkle👋
 
 - 🎉 [My Bilibili](https://space.bilibili.com/504151731/)!
