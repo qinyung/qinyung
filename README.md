@@ -4,5 +4,5 @@
 ##### 🎁 ( ﾟ∀。)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pntang&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pntang&theme=github_dark&show_icons=true)
+![sprinkle's GitHub stats](https://github-readme-stats.vercel.app/api?username=pntang&theme=github_dark&show_icons=true)
 
