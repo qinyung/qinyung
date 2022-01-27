@@ -6,4 +6,3 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pntang&theme=github_dark&show_icons=true)
 
-<img height="165" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pntang&cache_seconds=1800&layout=compact&langs_count=6&hide_border=true&hide=CSS" />
