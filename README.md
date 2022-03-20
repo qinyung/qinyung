@@ -1,7 +1,7 @@
 ### Hey,my name's Sprinkle👋
 ### 嘿，我是Sprinkle👋
 - Python&HTML Programmer
-- Like playing [Minecraft](https://minecraft.net),chating on [十字街](http://crosst.chat)
+- Like playing [Minecraft](https://minecraft.net) and chating on [十字街](http://crosst.chat)
 - Follow my bilibili [倾语Sprinkle](https://space.bilibili.com/504151731)
 - My Blog:[sprinkle.eu.org](https://sprinkle.eu.org)
 - Contact Me [![Gitter](https://badges.gitter.im/im-spr/chat.svg)](https://gitter.im/im-spr/chat?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=body_badge)
