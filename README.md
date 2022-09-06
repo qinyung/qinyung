@@ -1,5 +1,6 @@
 ### Hey,my name's Sprinkle👋
 ### 嘿，我是Sprinkle👋
+- 普普通通の高中学生而已
 - Python&HTML Programmer
 - Like playing [Minecraft](https://minecraft.net) and chating on [十字街](http://crosst.chat)
 - Follow my bilibili [倾语Sprinkle](https://space.bilibili.com/504151731)
